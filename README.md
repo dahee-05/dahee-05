@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 👋
 <h3>Hi, I'm dahee Kim👋</h3>
 -->
+  <div align="center">
+    <h2>✨ABOUT ME✨</h2>
 
-<h3>✨ABOUT ME✨</h3><hr>
-
-+ 👩‍💻 Back-End Developer
-+ 👉 Here's my 
-
+    + 👩‍💻 Back-End Developer
+    + 👉 Here's my 
+  </div>
 <br>
   <div align="center">
-   <h3>🛠️ Tech Stacks 🛠️</h3>
+   <h2>🛠️ Tech Stacks 🛠️</h2>
   </div>
 <p align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white">
 </p>
+
