@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FAF4C0&height=300&section=header&text=Dahee Kim&fontSize=70" />
 </p>
-### Hi, I'm dahee Kim !👋
 
 <!--
 **dahee-05/dahee-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 👋
+<h3>Hi, I'm dahee Kim👋</h3>
+-->
+
+<h3>✨ABOUT ME✨</h3><hr>
 
 
 <p align="center">
