@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFD9FA&height=300&section=header&text=Dahee Kim&fontSize=55" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=FFB2F5&height=300&section=header&text=dahee's Github&fontSize=70" />
 </p>
 ### Hi, I'm dahee Kim !👋
 
