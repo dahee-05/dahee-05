@@ -15,6 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![헤더](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+```
+
+##  테마
+`theme=` 를 사용하여 지정된 조합을 사용할 수 있습니다 .
+
+'color' 와 'fontColor' 를 사용해도 테마가 가장 우선시 됩니다.
+
+[ palte_theme.json ](https://github.com/kyechan99/capsule-render/blob/master/src/pallete_theme.json) 에서 사용 가능한 테마 목록을 확인 하세요.
+
+```
+![반전](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+```
+
+> 현재 [Link:theme](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)에서 조합을 조금씩 추가하고 있습니다.
+##  섹션
+단면 데이터는 배경 이미지를 반대로 만듭니다.
+-  `&섹션=헤더` : (기본값)
+
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
