@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <div align="center">
     <h2>✨ABOUT ME✨</h2>
 
-    + 👩‍💻 Back-End Developer
+    + 👩‍💻 BackEnd Developer
     + 👉 Here's my 
   </div>
 <br>
