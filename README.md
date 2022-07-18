@@ -1,8 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE08C&height=300&section=header&text=Dahee Kim&fontSize=70" />
+  ![KakaoTalk_20220718_164107514](https://user-images.githubusercontent.com/109140708/179465993-b01d2e1e-9497-45f3-a12f-a503fe0b01df.jpg)
 </p>
 
 <!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE08C&height=300&section=header&text=Dahee Kim&fontSize=70" />
+</p>
 **dahee-05/dahee-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
