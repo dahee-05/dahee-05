@@ -1,9 +1,9 @@
 <p align="center">
  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE08C&height=300&section=header&text=Dahee Kim&fontSize=70" /> -->
-  <img width="90%" Height="350" src="https://user-images.githubusercontent.com/109140708/179465993-b01d2e1e-9497-45f3-a12f-a503fe0b01df.jpg"/>
+  <img width="100%" Height="350" src="https://user-images.githubusercontent.com/109140708/179471890-417d15a2-94bf-4f4e-ac7f-97cd784dc414.jpg"/>
 </p>
 
-
+)
 
 
 
