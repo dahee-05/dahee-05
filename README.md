@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE08C&height=300&section=header&text=Dahee Kim&fontSize=70" />  -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE08C&height=300&section=header&text=Dahee Kim&fontSize=70" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE400&height=300&section=header&text=Dahee Kim&fontSize=70" />
 <!--  <img width="100%" Height="350" src="https://user-images.githubusercontent.com/109140708/179472217-272e0612-e8f4-4630-a892-23298574492a.jpg"/>-->
 </p>
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <h3 align=center>
 
  <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dahee-05&show_icons=true&theme=ayu-mirage )  -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee-05&layout=compact&theme=flag-india )
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee-05&layout=compact&theme=ayu-mirage)
 </h3>
 
 
