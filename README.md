@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 <h3 align=center>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dahee-05&show_icons=true&theme=flag-india)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee-05&layout=compact&theme=flag-india)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dahee-05&show_icons=true&theme=ayu-mirage )
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee-05&layout=compact&theme=ayu-mirage )
 </h3>
 
 
