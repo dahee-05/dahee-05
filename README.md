@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white">
 </p>
 
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dahee-05)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee-05&langs_count=10&layout=compact&theme=white)
