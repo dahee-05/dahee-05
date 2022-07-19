@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE08C&height=300&section=header&text=Dahee Kim&fontSize=70" />  -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD9EC&height=300&section=header&text=Dahee Kim&fontSize=70" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=FAF4C0&height=300&section=header&text=Dahee Kim&fontSize=70" />
 <!--  <img width="100%" Height="350" src="https://user-images.githubusercontent.com/109140708/179472217-272e0612-e8f4-4630-a892-23298574492a.jpg"/>-->
 </p>
 
