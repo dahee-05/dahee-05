@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-BCE55C?style=for-the-badge&logo=css3&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black">
-  <img src="https://img.shields.io/badge/MYSQL-E8FFFF?style=for-the-badge&logo=MYSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MYSQL-FFE08C?style=for-the-badge&logo=MYSQL&logoColor=white">
   <img src="https://img.shields.io/badge/java-FFA7A7?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
   <br>
