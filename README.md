@@ -1,10 +1,4 @@
-<p align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE08C&height=300&section=header&text=Dahee Kim&fontSize=70" />  -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=FAF4C0&height=300&section=header&text=Dahee Kim&fontSize=70" />
-<!--  <img width="100%" Height="350" src="https://user-images.githubusercontent.com/109140708/179472217-272e0612-e8f4-4630-a892-23298574492a.jpg"/>-->
-</p>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Dahee's%20GitHub&fontSize=42" />
 
 
 
@@ -26,10 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 👋
 <h3>Hi, I'm dahee Kim👋</h3>
 -->
-  <div align="center">
-    <h2>✨ABOUT ME✨</h2>
 
-     👩‍💻 BackEnd Developer
+
+  <div align="center">
+    <h2>✨🌷반갑습니다! 김다희입니다🌷✨</h2>
+
+     👩‍💻 FrontEnd Developer
      👇 Here's my Tech Blog
  </div>
  
@@ -41,27 +37,18 @@ Here are some ideas to get you started:
     <h2>🛠️ Tech Stacks 🛠️</h2>
   </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/html5-FFC19E?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black">
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=BOOTSTRAP&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
 
+  <img src="https://img.shields.io/badge/MYSQL-B2EBF4?style=for-the-badge&logo=MYSQL&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   <br>
 
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white">
 </p><br>
-
-<h3 align=center>
-
- <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dahee-05&show_icons=true&theme=ayu-mirage )  -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahee-05&layout=compact&theme=flag-india)
-</h3>
 
 
 
