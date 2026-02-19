@@ -34,16 +34,16 @@ Here are some ideas to get you started:
   <br><br>
 
   <div align="center">
-    <h2>🛠️ Tech Stacks 🛠️</h2>
+    <h2> Tech Stacks 🛠️</h2>
   </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React-8C8C8C?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/html5-FFC19E?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-BCE55C?style=for-the-badge&logo=css3&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black">
-
-  <img src="https://img.shields.io/badge/MYSQL-B2EBF4?style=for-the-badge&logo=MYSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/MYSQL-E8FFFF?style=for-the-badge&logo=MYSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/java-FFA7A7?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
   <br>
 
